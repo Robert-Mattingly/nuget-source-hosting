@@ -1,0 +1,5 @@
+c:\users\dev\documents\visual studio 2017\Projects\ConsumedLibrary\ConsumedLibrary\bin\Debug\ConsumedLibrary.dll
+c:\users\dev\documents\visual studio 2017\Projects\ConsumedLibrary\ConsumedLibrary\bin\Debug\ConsumedLibrary.pdb
+c:\users\dev\documents\visual studio 2017\Projects\ConsumedLibrary\ConsumedLibrary\obj\Debug\ConsumedLibrary.csprojResolveAssemblyReference.cache
+c:\users\dev\documents\visual studio 2017\Projects\ConsumedLibrary\ConsumedLibrary\obj\Debug\ConsumedLibrary.dll
+c:\users\dev\documents\visual studio 2017\Projects\ConsumedLibrary\ConsumedLibrary\obj\Debug\ConsumedLibrary.pdb

@@ -1,0 +1,8 @@
+c:\users\dev\documents\visual studio 2017\Projects\ConsumedLibrary\ConsumingApplication\bin\Debug\ConsumingApplication.exe.config
+c:\users\dev\documents\visual studio 2017\Projects\ConsumedLibrary\ConsumingApplication\bin\Debug\ConsumingApplication.exe
+c:\users\dev\documents\visual studio 2017\Projects\ConsumedLibrary\ConsumingApplication\bin\Debug\ConsumingApplication.pdb
+c:\users\dev\documents\visual studio 2017\Projects\ConsumedLibrary\ConsumingApplication\bin\Debug\ConsumedLibrary.dll
+c:\users\dev\documents\visual studio 2017\Projects\ConsumedLibrary\ConsumingApplication\bin\Debug\ConsumedLibrary.pdb
+c:\users\dev\documents\visual studio 2017\Projects\ConsumedLibrary\ConsumingApplication\obj\Debug\ConsumingApplication.csprojResolveAssemblyReference.cache
+c:\users\dev\documents\visual studio 2017\Projects\ConsumedLibrary\ConsumingApplication\obj\Debug\ConsumingApplication.exe
+c:\users\dev\documents\visual studio 2017\Projects\ConsumedLibrary\ConsumingApplication\obj\Debug\ConsumingApplication.pdb
