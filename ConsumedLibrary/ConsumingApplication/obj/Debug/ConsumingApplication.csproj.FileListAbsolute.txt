@@ -6,3 +6,10 @@ c:\users\dev\documents\visual studio 2017\Projects\ConsumedLibrary\ConsumingAppl
 c:\users\dev\documents\visual studio 2017\Projects\ConsumedLibrary\ConsumingApplication\obj\Debug\ConsumingApplication.csprojResolveAssemblyReference.cache
 c:\users\dev\documents\visual studio 2017\Projects\ConsumedLibrary\ConsumingApplication\obj\Debug\ConsumingApplication.exe
 c:\users\dev\documents\visual studio 2017\Projects\ConsumedLibrary\ConsumingApplication\obj\Debug\ConsumingApplication.pdb
+C:\Users\dev\git\nuget-source-hosting\ConsumedLibrary\ConsumingApplication\obj\Debug\ConsumingApplication.csprojResolveAssemblyReference.cache
+C:\Users\dev\git\nuget-source-hosting\ConsumedLibrary\ConsumingApplication\obj\Debug\ConsumingApplication.exe
+C:\Users\dev\git\nuget-source-hosting\ConsumedLibrary\ConsumingApplication\obj\Debug\ConsumingApplication.pdb
+C:\Users\dev\git\nuget-source-hosting\ConsumedLibrary\ConsumingApplication\bin\Debug\ConsumingApplication.exe.config
+C:\Users\dev\git\nuget-source-hosting\ConsumedLibrary\ConsumingApplication\bin\Debug\ConsumingApplication.exe
+C:\Users\dev\git\nuget-source-hosting\ConsumedLibrary\ConsumingApplication\bin\Debug\ConsumingApplication.pdb
+C:\Users\dev\git\nuget-source-hosting\ConsumedLibrary\ConsumingApplication\bin\Debug\ConsumedLibrary.dll
