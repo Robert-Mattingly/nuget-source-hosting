@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsumedLibrary", "Consumed
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsumingApplication", "ConsumingApplication\ConsumingApplication.csproj", "{3E4EC521-92E6-407E-A432-57B0A590BD19}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NuGetRepo", "NuGetRepo", "{C55750AB-4C79-4F4C-9831-F1D49B884B39}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
